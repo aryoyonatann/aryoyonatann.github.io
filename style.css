@@ -220,35 +220,6 @@ section h3::after {
   line-height: 25px;
   margin-bottom: 15px;
 }
-#skills,
-#contact {
-  background-color: #f9f9f9;
-}
-#skills .bar {
-  height: 30px;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  margin: 5px 0 20px 0;
-}
-.bar .nilai {
-  height: 30px;
-  background-color: #f84744;
-  display: inline-block;
-  color: #fff;
-  text-align: center;
-}
-.html {
-  width: 60%;
-}
-.css {
-  width: 40%;
-}
-.js {
-  width: 25%;
-}
-.php {
-  width: 20%;
-}
 
 .col-4 {
   width: 25%;
